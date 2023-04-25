@@ -11,3 +11,4 @@ print (type(turl_b))
 #du lieu dict
 dit_s = {"a" : "dilo", "b" : "gusd"}
 print(type(dit_s))
+# hehehe
